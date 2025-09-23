@@ -1,0 +1,5 @@
+# Requires Python 3.9 or newer
+
+numpy>=1.23,<2.0
+pandas>=1.5,<3.0
+plotly>=5.15,<6.0
