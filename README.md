@@ -18,7 +18,7 @@ Uses **Python**, **Plotly**, and **Pandas** to generate an interactive graph and
 
 ---
 
-##Development
+## Development
 
   LLMs such as ChatGPT were used to fill in areas of knowledge due to unfamiliar medium of GUI 
   development. Conceptualization and creation of the structure and design were done manually.
