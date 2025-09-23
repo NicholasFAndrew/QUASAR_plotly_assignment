@@ -15,6 +15,5 @@ Uses **Python**, **Plotly**, and **Pandas** to generate an interactive graph and
   - Pan, zoom, and reset view.
   - Range slider for navigating long time-series.
 - Exports to a **self-contained HTML file** that opens in any browser (no dependencies required once generated).
-- Right-click context menu is disabled for a smoother pan/zoom experience.
 
 ---
