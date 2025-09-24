@@ -22,3 +22,27 @@ Uses **Python**, **Plotly**, and **Pandas** to generate an interactive graph and
 
   LLMs such as ChatGPT were used to fill in areas of knowledge due to unfamiliar medium of GUI 
   development. Conceptualization and creation of the structure and design were done manually.
+
+---
+
+## How to Run
+
+-Cloning
+  git clone https://github.com/NicholasFAndrew/QUASAR_plotly_assignment.git
+  cd QUASAR_plotly_assignment
+
+-Requirements
+  pip install -r requirements.txt
+
+  Python **3.12+**
+  numpy>=1.23,<2.0
+  pandas>=1.5,<3.0
+  plotly>=5.15,<6.0
+
+-Running
+
+  python main.py
+
+  **OR**
+
+  python plot_eeg_ecg.py --input "EEG and ECG data_02_raw.csv" --output output.html --open
