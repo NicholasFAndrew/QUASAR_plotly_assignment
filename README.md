@@ -29,6 +29,7 @@ Uses **Python**, **Plotly**, and **Pandas** to generate an interactive graph and
 
 -Cloning
   git clone https://github.com/NicholasFAndrew/QUASAR_plotly_assignment.git
+  
   cd QUASAR_plotly_assignment
 
 -Requirements
