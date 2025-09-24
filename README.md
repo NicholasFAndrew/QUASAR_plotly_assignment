@@ -20,6 +20,10 @@ Uses **Python**, **Plotly**, and **Pandas** to generate an interactive graph and
 
 ## Development
 
+  If allowed more time, I would have liked to add a better method of toggling on/off which data streams are
+  being rendered though the use of a sorted grid of checkboxes, though that would have required more extensive
+  HTML configuration. 
+
   LLMs such as ChatGPT were used to fill in areas of knowledge due to unfamiliar medium of GUI 
   development. Conceptualization and creation of the structure and design were done manually.
 
